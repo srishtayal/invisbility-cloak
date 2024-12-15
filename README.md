@@ -108,9 +108,9 @@ Adjust these values according to your desired color.
 
 ---
 
-## 🧑‍💻 Author
+## 👩🏼‍💻 Author
 
-**Srishti Yal**  
+**Srishti Tayal**  
 [GitHub Profile](https://github.com/srishtayal)  
 
 Enjoy exploring the magic of invisibility! ✨
